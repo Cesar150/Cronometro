@@ -2,6 +2,9 @@
 (( Under development... ))
 teacher's README, my version will only come out when there are significant updates.
 
+## If you are interested in seeing the project [click here](https://cronometro-pi.vercel.app/)
+
+![projeto_versao1](https://user-images.githubusercontent.com/52611271/163652418-a7af59d7-cbf9-4f75-b1eb-3f0122454240.png)
 
 # Getting Started with Create React App
 
